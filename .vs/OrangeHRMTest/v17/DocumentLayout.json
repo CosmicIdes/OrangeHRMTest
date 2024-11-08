@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\orangehrmtest\\orangehrmtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\orangehrmtest\\orangehrmtest\\seleniumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|solutionrelative:seleniumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\orangehrmtest\\orangehrmtest\\adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|solutionrelative:adminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\orangehrmtest\\orangehrmtest\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\orangehrmtest\\orangehrmtest\\loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|solutionrelative:loginpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|c:\\users\\brand\\onedrive\\desktop\\projects\\orangehrmtest\\orangehrmtest\\seleniumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471C02D5-6172-4C0A-ACAA-B1F992B99497}|OrangeHRMTest.csproj|solutionrelative:seleniumhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\LoginPage.cs",
-              "RelativeDocumentMoniker": "LoginPage.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\LoginPage.cs",
-              "RelativeToolTip": "LoginPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T22:29:06.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeleniumHelpers.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\SeleniumHelpers.cs",
-              "RelativeDocumentMoniker": "SeleniumHelpers.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\SeleniumHelpers.cs",
-              "RelativeToolTip": "SeleniumHelpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T22:28:28.269Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -57,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Title": "AdminPage.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\AdminPage.cs",
+              "RelativeDocumentMoniker": "AdminPage.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\AdminPage.cs",
+              "RelativeToolTip": "AdminPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:56:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleniumHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\SeleniumHelpers.cs",
+              "RelativeDocumentMoniker": "SeleniumHelpers.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\SeleniumHelpers.cs",
+              "RelativeToolTip": "SeleniumHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:28:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\LoginPage.cs",
+              "RelativeToolTip": "LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T22:29:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\LoginPageTests.cs",
+              "RelativeDocumentMoniker": "LoginPageTests.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Desktop\\Projects\\OrangeHRMTest\\OrangeHRMTest\\LoginPageTests.cs",
+              "RelativeToolTip": "LoginPageTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T22:24:42.98Z",
               "EditorCaption": ""
